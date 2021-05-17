@@ -1,0 +1,21 @@
+{
+    "name": "easy-light",
+    "displayName": "Easy Light",
+    "description": "A VSCode theme for those who prefer light mode and avoid that halation effect",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Easy Light",
+                "uiTheme": "vs",
+                "path": "./themes/easy-light-color-theme.json"
+            }
+        ]
+    }
+}
