@@ -427,24 +427,6 @@
         "fontStyle": ""
       }
     },
-    // {
-    //   "scope": ["markup.inserted"],
-    //   "settings": {
-    //     "foreground": "#91B859"
-    //   }
-    // },
-    // {
-    //   "scope": ["markup.deleted"],
-    //   "settings": {
-    //     "foreground": "#E53935"
-    //   }
-    // },
-    // {
-    //   "scope": ["markup.changed"],
-    //   "settings": {
-    //     "foreground": "#7C4DFF"
-    //   }
-    // },
     {
       "scope": ["string.regexp"],
       "settings": {

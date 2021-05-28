@@ -3,12 +3,39 @@
     "displayName": "Easy Light",
     "description": "A VSCode theme for those who prefer light mode and avoid that halation effect",
     "version": "0.0.1",
+    "publisher": "fransyrcc",
+    "author": {
+        "name": "Fransy"
+    },
     "engines": {
         "vscode": "^1.53.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fransyrcc/easy-light-vscode-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/fransyrcc/easy-light-vscode-theme/issues"
+    },
+    "keywords": [
+        "Theme",
+        "Light Theme",
+        "Easy Light",
+        "Accessible Theme"
+    ],
+    "scripts": {
+        "list": "npx vsce ls",
+        "package": "npx vsce package",
+        "publish": "npx vsce publish"
+      },
+    "galleryBanner": {
+        "color": "#e0e0e0",
+        "theme": "light"
     },
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {

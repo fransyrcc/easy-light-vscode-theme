@@ -15,7 +15,7 @@
     </div>
 </template>
 <script>
-import NewsletterIcon from '@shiba/components/layout/custom-icon';
+import NewsletterIcon from '@package/components/custom-icon';
 export default {
     name: 'CardNewsletter',
     componentName: 'CardNewsletter',
@@ -47,7 +47,7 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-//exception for the custom btn
+// some scoped styles here
 .card-newsletter-wrap {
     .btn {
         padding: 1.2rem;
