@@ -12,7 +12,7 @@ This theme tries to bring the "cool" stuff from dark themes and still be nice to
 
 ## Installation
 
-1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=fransyrcc.easy-light-vscode-theme).
+1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=fransyrcc.easy-light).
 2. Click on the "Install" button.
 3. [Select `Easy Light`](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme). 
 
@@ -21,7 +21,7 @@ This theme tries to bring the "cool" stuff from dark themes and still be nice to
 
 This is my first try into creating a VS Code theme. 
 
-If you have suggestions or see something that can be improved, please [open an issue](https://github.com/fransyrcc/vscode-easy-light-vscode-theme/issues) or better yet, create a [pull request](https://github.com/fransyrcc/vscode-easy-light-vscode-theme/pulls).
+If you have suggestions or see something that can be improved, please [open an issue](https://github.com/fransyrcc/easy-light-vscode-theme/issues) or better yet, create a [pull request](https://github.com/fransyrcc/easy-light-vscode-theme/pulls).
 
 That would be awesome!
 ## Credits
