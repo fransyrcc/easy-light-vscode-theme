@@ -19,6 +19,7 @@ This theme tries to bring the "cool" stuff from dark themes and still be nice to
 3. Click on the `Install` button.
 3. Select `Easy Light` as the Color Theme. [Instructions here](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme). 
 
+Find this theme in VS Code marketplace at https://marketplace.visualstudio.com/items?itemName=fransyrcc.easy-light 
 
 ## Feedback
 
