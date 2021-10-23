@@ -2,8 +2,9 @@
 
 All notable changes to the "easy-light" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.0.1
+- Update: Icon
+- Update: Readme.md
 
-## [Unreleased]
-
+## 1.0.0
 - Initial release
