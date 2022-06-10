@@ -2,9 +2,9 @@
   "$schema": "vscode://schemas/color-theme",
   "type": "light",
   "colors": {
-    "activityBar.background": "#e0e0e0",
-    "activityBar.border": "#e0e0e0",
-    "activityBar.foreground": "#4f4f4f",
+    "activityBar.background": "#d0d0cf",
+    "activityBar.border": "#ffffff00",
+    "activityBar.foreground": "#525252",
     "activityBarBadge.background": "#008bb1cf",
     "activityBarBadge.foreground": "#ffffff",
     "badge.background": "#008bb1cf",
@@ -18,7 +18,7 @@
     "button.foreground": "#ffffff",
     "diffEditor.insertedTextBackground": "#91b85923",
     "diffEditor.removedTextBackground": "#e5383517",
-    "editor.background": "#f1f1f1",
+    "editor.background": "#e3e3e3",
     "editorBracketMatch.background": "#e9520027",
     "editorBracketMatch.border": "#e952006d",
     "editorHoverWidget.background": "#e0e0e0",
@@ -26,6 +26,8 @@
     "editorIndentGuide.activeBackground": "#bb7803",
     "editorLineNumber.activeForeground": "#976391",
     "editorLineNumber.foreground": "#97639148",
+    "editor.lineHighlightBorder": "#ffffff00",
+    "editor.lineHighlightBackground": "#dedddd",
     "editorLink.activeForeground": "#000000",
     "list.activeSelectionBackground": "#b1b1b167",
     "list.activeSelectionForeground": "#4e4e4e",
@@ -42,16 +44,16 @@
     "list.inactiveSelectionBackground": "#b1b1b11e",
     "list.inactiveSelectionForeground": "#4e4e4e",
     "list.invalidItemForeground": "#A9A9AA",
-    "list.warningForeground": "#ff854c",
+    "list.warningForeground": "#8f0000",
     "listFilterWidget.background": "#FFF",
     "listFilterWidget.outline": "#FFF",
     "listFilterWidget.noMatchesOutline": "#ff0000",
 
-    "panel.background": "#f5f5f5",
-    "panel.border": "#f5f5f5",
-    "panelTitle.activeBorder": "#000000",
-    "panelTitle.activeForeground": "#000000",
-    "panelTitle.inactiveForeground": "#0000005b",
+    "panel.background": "#e3e3e3",
+    "panel.border": "#b2b2b2",
+    "panelTitle.activeBorder": "#830083",
+    "panelTitle.activeForeground": "#830083",
+    "panelTitle.inactiveForeground": "#3a013a",
     "tab.activeBackground": "#ffffff",
     "tab.activeBorder": "#083d77",
     "tab.border": "#ececec",
@@ -59,7 +61,11 @@
     "terminal.ansiBrightGreen": "#68932c",
     "terminal.ansiBrightMagenta": "#881af7",
     "terminal.ansiBrightRed": "#c20300",
-    "tree.indentGuidesStroke": "#c5c5c5"
+    "tree.indentGuidesStroke": "#c5c5c5",
+    "input.border":"#929292",
+    "input.background": "#edecec",
+    "sideBar.background": "#e3e3e3",
+    "sideBar.border": "#b2b2b2"
   },
   "tokenColors": [
     // Start vue/js
@@ -209,7 +215,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#9d008b"
+        "foreground": "#9d008b",
         // "foreground": "#6A02A2"
       }
     },
@@ -281,7 +287,7 @@
     {
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
-        "foreground": "#00877e",
+        "foreground": "#108f87",
         "fontStyle": ""
       }
     },
@@ -295,7 +301,7 @@
     {
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#3A86FF",
+        "foreground": "#165ac6",
         "fontStyle": ""
       }
     },
