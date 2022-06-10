@@ -2,6 +2,8 @@
 
 All notable changes to the "easy-light" extension will be documented in this file.
 
+## 1.0.4
+- Update: version
 ## 1.0.3
 - Update: Changelog
 ## 1.0.2
