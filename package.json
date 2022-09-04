@@ -2,7 +2,7 @@
     "name": "easy-light",
     "displayName": "Easy Light",
     "description": "A VSCode theme for those who prefer light mode and avoid that halation effect",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "publisher": "fransyrcc",
     "author": {
         "name": "Fransy"
@@ -26,8 +26,9 @@
     "scripts": {
         "list": "npx vsce ls",
         "package": "npx vsce package",
-        "publish": "npx vsce publish"
-      },
+        "publish": "npx vsce publish",
+        "release": "bumpp package.json --commit --push --tag && npm -r publish --access public"
+    },
     "galleryBanner": {
         "color": "#e0e0e0",
         "theme": "light"
@@ -44,5 +45,8 @@
                 "path": "./themes/easy-light-color-theme.json"
             }
         ]
+    },
+    "devDependencies": {
+        "bumpp": "^8.2.1"
     }
 }
